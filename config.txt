@@ -1,6 +1,6 @@
 token=NTU1NDY0MjEyOTQ0NjUwMzI4.D2rkPg.Zrlyb8snDA85uTu5F2ApVbju1XA
 owner=554627465297788938 
 prefix= 2
-game= !thelp
+game= Abdellhadi
 stayinchannel=true
 songinstatus=true 
